@@ -1,0 +1,1 @@
+{"GET":"var vestiUpit='SELECT * FROM Vesti';\nvar vestiQuery=query(vestiUpit);\nwrite('Vesti',vestiQuery);"}
